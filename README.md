@@ -1,58 +1,28 @@
-\# 🟢 Spring Boot MongoDB Beispiel
+# 🟢 Spring Boot MongoDB Beispiel
 
-
-
-Dieses Projekt demonstriert die Integration von \*\*Spring Boot\*\* mit \*\*MongoDB\*\* für grundlegende CRUD-Operationen.
-
-
+Dieses Projekt demonstriert die Integration von **Spring Boot** mit **MongoDB** für grundlegende CRUD-Operationen.
 
 ---
 
-
-
-\## ⚙️ Technologien
-
-\- \*\*Backend:\*\* Java 11  
-
-\- \*\*Framework:\*\* Spring Boot  
-
-\- \*\*Datenbank:\*\* MongoDB  
-
-\- \*\*Build-Tool:\*\* Maven  
-
-
+## ⚙️ Technologien
+- **Backend:** Java 11  
+- **Framework:** Spring Boot  
+- **Datenbank:** MongoDB  
+- **Build-Tool:** Maven  
 
 ---
 
-
-
-\## 🚀 Schnellstart
-
-
+## 🚀 Schnellstart
 
 ```bash
-
-\# 1. Repository klonen
-
+# 1. Repository klonen
 git clone https://github.com/Berkayy19/SpringBootMongoDB.git
 
-
-
-\# 2. Ins Projektverzeichnis wechseln
-
+# 2. Ins Projektverzeichnis wechseln
 cd SpringBootMongoDB
 
-
-
-\# 3. Abhängigkeiten installieren
-
+# 3. Abhängigkeiten installieren
 mvn install
 
-
-
-\# 4. Anwendung starten
-
+# 4. Anwendung starten
 mvn spring-boot:run
-
-
-
